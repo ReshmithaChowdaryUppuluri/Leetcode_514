@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
