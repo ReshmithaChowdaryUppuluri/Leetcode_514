@@ -22,13 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0010-regular-expression-matching) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
