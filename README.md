@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/ReshmithaChowdaryUppuluri/Leetcode_514/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
